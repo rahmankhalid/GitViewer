@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  SearchVC.swift
 //  GitViewer
 //
 //  Created by Khalid Rahman on 29/12/2019.
@@ -8,13 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SearchVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        view.backgroundColor = .systemPink
     }
 
-
 }
-
